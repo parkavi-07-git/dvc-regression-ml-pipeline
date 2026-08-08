@@ -5,3 +5,7 @@ __pycache__/
 .venv/
 venv/
 .DS_Store
+model.pkl
+data/raw/
+data/processed/
+data/features/
