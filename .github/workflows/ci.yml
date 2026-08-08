@@ -36,6 +36,6 @@ jobs:
         run: |
           pytest tests/ -v
 
-      - name: Display regression metrics
+      - name: Show regression metrics
         run: |
           cat metrics.json
